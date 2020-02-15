@@ -1,3 +1,5 @@
+package ch1_strategy;
+
 import ch1_strategy.classes.Duck;
 import ch1_strategy.classes.DuckCall;
 import ch1_strategy.classes.ducktypes.MallardDuck;
