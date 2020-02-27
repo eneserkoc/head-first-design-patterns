@@ -1,4 +1,4 @@
-package ch3_decorator.interfaces;
+package ch3_decorator.starbuzz.interfaces;
 
 public interface Beverage {
 

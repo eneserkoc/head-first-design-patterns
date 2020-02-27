@@ -1,9 +1,9 @@
-package ch3_decorator;
+package ch3_decorator.starbuzz;
 
-import ch3_decorator.classes.HouseBlend;
-import ch3_decorator.classes.Mocha;
-import ch3_decorator.classes.Whip;
-import ch3_decorator.interfaces.Beverage;
+import ch3_decorator.starbuzz.classes.HouseBlend;
+import ch3_decorator.starbuzz.classes.Mocha;
+import ch3_decorator.starbuzz.classes.Whip;
+import ch3_decorator.starbuzz.interfaces.Beverage;
 
 public class StarbuzzCoffee {
 

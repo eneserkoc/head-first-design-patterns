@@ -1,6 +1,6 @@
-package ch3_decorator.classes;
+package ch3_decorator.starbuzz.classes;
 
-import ch3_decorator.interfaces.Beverage;
+import ch3_decorator.starbuzz.interfaces.Beverage;
 
 public class Mocha implements Beverage {
 
